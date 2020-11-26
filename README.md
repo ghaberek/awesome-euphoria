@@ -1,5 +1,8 @@
 # awesome-euphoria
-An index of Euphoria related projects on GitHub.
+
+<img src="https://raw.githubusercontent.com/ghaberek/awesome-euphoria/main/logo.png" width="300" height="300">
+
+An awesome list of Euphoria related projects on GitHub.
 
 ## Table of Contents
 
