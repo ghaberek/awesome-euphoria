@@ -75,7 +75,6 @@ An awesome list of Euphoria related projects on GitHub.
 - https://github.com/BotMaker/old-work
 - https://github.com/BotMaker/packet-ids
 - https://github.com/BotMaker/Rotmg-game-engine
-- https://github.com/dfint/dfrus-old
 - https://github.com/jhammond045/zig
 
 ### Graphics
