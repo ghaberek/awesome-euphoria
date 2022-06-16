@@ -87,6 +87,8 @@ An awesome list of Euphoria related projects on GitHub.
 - https://github.com/gAndy50/EuSigil
 - https://github.com/gAndy50/Euraylib
 - https://github.com/ghaberek/raylibshim
+- https://github.com/insolor/dos_rescue
+- https://github.com/insolor/dos_rescue_crossplatform
 
 ### Guides
 - https://github.com/xecronix/EU_DLLs_complete_guide
