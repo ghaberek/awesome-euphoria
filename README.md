@@ -146,6 +146,7 @@ An awesome list of Euphoria related projects on GitHub.
 - https://github.com/ShadowKnightMK4/MouseEvent4D
 - https://github.com/xecronix/euanyrepo
 - https://github.com/xecronix/eudrop
+- https://github.com/marcoachury/xml2txt
 
 ### Web
 - https://github.com/OpenEuphoria/euweb
